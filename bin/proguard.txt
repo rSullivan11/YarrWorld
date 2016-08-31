@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:12
+-keep class rsullivan11.cs273.orangecoastcollege.edu.MainActivity { <init>(...); }
+
