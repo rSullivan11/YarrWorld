@@ -17,6 +17,6 @@ public class MainActivity extends Activity {
         setContentView(R.layout.main);
 
         // Hook up speakButton to one in view
-        speakButton = (Button) findViewById(R.id.speakButton);
+        speakButton = findViewById((Button)R.id.speakButton);
     }
 }
