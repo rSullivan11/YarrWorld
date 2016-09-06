@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yarr Monde</string>
+    <string name="welcome_text">Bienvenue Sur cs 273 Development d'applications mobiles </string>
+    <string name="button_text">SHIVER ME BOIS"</string>
+    <string name="toast_text">Yarr Munde!</string>
+
+</resources>
